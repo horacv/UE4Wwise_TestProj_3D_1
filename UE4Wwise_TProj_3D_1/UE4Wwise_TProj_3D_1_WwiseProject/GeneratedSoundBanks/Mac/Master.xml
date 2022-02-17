@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/horacio/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Game Audio Test Projects/UE4Wwise_TestProj_3D_1/UE4Wwise_TProj_3D_1/UE4Wwise_TProj_3D_1_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/horacio/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Game Audio Test Projects/UE4Wwise_TestProj_3D_1/UE4Wwise_TProj_3D_1/UE4Wwise_TProj_3D_1_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/horacio/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Game Audio Test Projects/UE4Wwise_TestProj_3D_1/UE4Wwise_TProj_3D_1/UE4Wwise_TProj_3D_1_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/horacio/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Game Audio Test Projects/UE4Wwise_TestProj_3D_1/UE4Wwise_TProj_3D_1/UE4Wwise_TProj_3D_1_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="4056684167" GUID="{1D2AABED-64F5-4BD5-9762-2693BEF6CA24}" Language="SFX" Hash="1052435110">
+			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
+			<ShortName>Master</ShortName>
+			<Path>Master.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1730208058" Name="player_footsteps" ObjectPath="\Events\Default Work Unit\player_footsteps" GUID="{49706E03-0551-4262-8950-595743B4EF61}" DurationType="OneShot" DurationMin="0.311854" DurationMax="1.03776">
+					<IncludedMemoryFiles>
+						<File Id="3038182" Language="SFX">
+							<ShortName>169_Foley_Footsteps_Grass_Sneaker_Walk_Fast_Run_Jog_Close Rendered (8aeaa1cdc3eb0370).wav</ShortName>
+							<Path>SFX/169_Foley_Footsteps_Grass_Sneaker_Walk_Fast_Run_Jog_Close Rendered (8aeaa1cdc3eb0370)_10C4C929.wem</Path>
+						</File>
+						<File Id="5532901" Language="SFX">
+							<ShortName>169_Foley_Footsteps_Grass_Sneaker_Walk_Fast_Run_Jog_Close Rendered (96a7dccaa40c0b0b).wav</ShortName>
+							<Path>SFX/169_Foley_Footsteps_Grass_Sneaker_Walk_Fast_Run_Jog_Close Rendered (96a7dccaa40c0b0b)_10C4C929.wem</Path>
+						</File>
+						<File Id="92426416" Language="SFX">
+							<ShortName>289_Foley_Footsteps_Rocks_Sneaker_Jump_Land_On_Two_Feet_Close Rendered (f1ccdeab8d3eec92).wav</ShortName>
+							<Path>SFX/289_Foley_Footsteps_Rocks_Sneaker_Jump_Land_On_Two_Feet_Close Rendered (f1ccdeab8d3eec92)_10C4C929.wem</Path>
+						</File>
+						<File Id="144798895" Language="SFX">
+							<ShortName>289_Foley_Footsteps_Rocks_Sneaker_Jump_Land_On_Two_Feet_Close Rendered (5f8cc6ca8ebec914).wav</ShortName>
+							<Path>SFX/289_Foley_Footsteps_Rocks_Sneaker_Jump_Land_On_Two_Feet_Close Rendered (5f8cc6ca8ebec914)_10C4C929.wem</Path>
+						</File>
+						<File Id="166272354" Language="SFX">
+							<ShortName>237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close Rendered (ed501c4babe5195b).wav</ShortName>
+							<Path>SFX/237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close Rendered (ed501c4babe5195b)_10C4C929.wem</Path>
+						</File>
+						<File Id="313449130" Language="SFX">
+							<ShortName>S23_SFX_Footsteps_Snow_Singles_Sequence Rendered (ad753d2446a75e02).wav</ShortName>
+							<Path>SFX/S23_SFX_Footsteps_Snow_Singles_Sequence Rendered (ad753d2446a75e02)_10C4C929.wem</Path>
+						</File>
+						<File Id="316666119" Language="SFX">
+							<ShortName>S23_SFX_Footsteps_Snow_Singles_Sequence Rendered (47d52509e4e5919a).wav</ShortName>
+							<Path>SFX/S23_SFX_Footsteps_Snow_Singles_Sequence Rendered (47d52509e4e5919a)_10C4C929.wem</Path>
+						</File>
+						<File Id="396409922" Language="SFX">
+							<ShortName>289_Foley_Footsteps_Rocks_Sneaker_Jump_Land_On_Two_Feet_Close Rendered (5280eaf905fcf1ba).wav</ShortName>
+							<Path>SFX/289_Foley_Footsteps_Rocks_Sneaker_Jump_Land_On_Two_Feet_Close Rendered (5280eaf905fcf1ba)_10C4C929.wem</Path>
+						</File>
+						<File Id="586601422" Language="SFX">
+							<ShortName>237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close Rendered (c9efa99ebf1a8816).wav</ShortName>
+							<Path>SFX/237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close Rendered (c9efa99ebf1a8816)_10C4C929.wem</Path>
+						</File>
+						<File Id="653581047" Language="SFX">
+							<ShortName>169_Foley_Footsteps_Grass_Sneaker_Walk_Fast_Run_Jog_Close Rendered (ab7c2930e8b6f073).wav</ShortName>
+							<Path>SFX/169_Foley_Footsteps_Grass_Sneaker_Walk_Fast_Run_Jog_Close Rendered (ab7c2930e8b6f073)_10C4C929.wem</Path>
+						</File>
+						<File Id="782665444" Language="SFX">
+							<ShortName>S23_SFX_Footsteps_Snow_Singles_Sequence Rendered (95cca6a4350c17f).wav</ShortName>
+							<Path>SFX/S23_SFX_Footsteps_Snow_Singles_Sequence Rendered (95cca6a4350c17f)_10C4C929.wem</Path>
+						</File>
+						<File Id="858179638" Language="SFX">
+							<ShortName>237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close Rendered (9b84dc6eec7cb2e0).wav</ShortName>
+							<Path>SFX/237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close Rendered (9b84dc6eec7cb2e0)_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{E023217B-2613-4FD8-89C2-33F1998F6B5A}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{1F689312-03C5-4565-9414-EAA37D867183}">
+							<Media>
+								<File Id="92426416"/>
+								<File Id="144798895"/>
+								<File Id="396409922"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E023217B-2613-4FD8-89C2-33F1998F6B5A}">
+							<Media>
+								<File Id="313449130"/>
+								<File Id="316666119"/>
+								<File Id="782665444"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4242408A-082D-4258-B166-FC324DD9EB3D}">
+							<Media>
+								<File Id="166272354"/>
+								<File Id="586601422"/>
+								<File Id="858179638"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E99E1DC4-12D3-4A14-8484-2BB3B963DFC3}">
+							<Media>
+								<File Id="3038182"/>
+								<File Id="5532901"/>
+								<File Id="653581047"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1305133589" Name="player_jump" ObjectPath="\Events\Default Work Unit\player_jump" GUID="{60447B8B-225B-40F2-BF1D-DADB8D1E9796}" DurationType="OneShot" DurationMin="0.353597" DurationMax="0.374623">
+					<IncludedMemoryFiles>
+						<File Id="403774128" Language="SFX">
+							<ShortName>Little Fighter Guy - Vocalizations - Jump Lift Push_09.wav</ShortName>
+							<Path>SFX/Little Fighter Guy - Vocalizations - Jump Lift Push_09_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="63790334" Name="surfacetype" ObjectPath="\Switches\Default Work Unit\surfacetype" GUID="{144FC3FC-C6A1-46CE-A213-705A1FCB9046}">
+					<Switches>
+						<Switch Id="4248645337" Name="grass" ObjectPath="\Switches\Default Work Unit\surfacetype\grass" GUID="{E99E1DC4-12D3-4A14-8484-2BB3B963DFC3}"/>
+						<Switch Id="687380132" Name="soil" ObjectPath="\Switches\Default Work Unit\surfacetype\soil" GUID="{E023217B-2613-4FD8-89C2-33F1998F6B5A}"/>
+						<Switch Id="2473969246" Name="metal" ObjectPath="\Switches\Default Work Unit\surfacetype\metal" GUID="{4242408A-082D-4258-B166-FC324DD9EB3D}"/>
+						<Switch Id="2144363834" Name="rock" ObjectPath="\Switches\Default Work Unit\surfacetype\rock" GUID="{1F689312-03C5-4565-9414-EAA37D867183}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
