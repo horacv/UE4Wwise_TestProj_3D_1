@@ -8,11 +8,31 @@
 		<ExternalSourcesOutputRoot>/Users/horacio/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Game Audio Test Projects/UE4Wwise_TestProj_3D_1/UE4Wwise_TProj_3D_1/UE4Wwise_TProj_3D_1_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="4056684167" GUID="{1D2AABED-64F5-4BD5-9762-2693BEF6CA24}" Language="SFX" Hash="1052435110">
+		<SoundBank Id="4056684167" GUID="{1D2AABED-64F5-4BD5-9762-2693BEF6CA24}" Language="SFX" Hash="3907775013">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
 			<IncludedEvents>
+				<Event Id="2225425154" Name="play_musicplaylist1" ObjectPath="\Events\Default Work Unit\play_musicplaylist1" GUID="{26F7E6EE-66DE-4B23-96DC-22ACDB9707BA}" MaxAttenuation="4500." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="633232141" Language="SFX">
+							<ShortName>AWKN - Music Loop 1 [C Major 100 BPM].wav</ShortName>
+							<Path>SFX/AWKN - Music Loop 1 [C Major 100 BPM]_D79FB2B7.wem</Path>
+						</File>
+						<File Id="817903989" Language="SFX">
+							<ShortName>AWKN - Music Loop 6 [C Major 100 BPM].wav</ShortName>
+							<Path>SFX/AWKN - Music Loop 6 [C Major 100 BPM]_D79FB2B7.wem</Path>
+						</File>
+						<File Id="982223894" Language="SFX">
+							<ShortName>AWKN - Organic Loop 4 [100 BPM].wav</ShortName>
+							<Path>SFX/AWKN - Organic Loop 4 [100 BPM]_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1008597847" Language="SFX">
+							<ShortName>AWKN - Live Loop 5 [100 BPM].wav</ShortName>
+							<Path>SFX/AWKN - Live Loop 5 [100 BPM]_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="1730208058" Name="player_footsteps" ObjectPath="\Events\Default Work Unit\player_footsteps" GUID="{49706E03-0551-4262-8950-595743B4EF61}" DurationType="OneShot" DurationMin="0.311854" DurationMax="1.03776">
 					<IncludedMemoryFiles>
 						<File Id="3038182" Language="SFX">
